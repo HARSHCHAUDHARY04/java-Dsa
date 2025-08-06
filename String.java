@@ -12,3 +12,4 @@ System.out.println("Char at: " + str.charAt(6));
 System.out.println("Index of: " + str.indexOf("World"));
 System.out.println("Starts with: " + str.startsWith("Hello"));
 System.out.println("Ends with: " + str.endsWith("World!"));
+
