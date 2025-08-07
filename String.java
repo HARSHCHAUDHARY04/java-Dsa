@@ -1,3 +1,5 @@
+
+
 String str = "Hello World!";
 System.out.println("String: " + str);
 System.out.println("Length: " + str.length());
